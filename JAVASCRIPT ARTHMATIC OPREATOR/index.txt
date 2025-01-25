@@ -1,0 +1,6 @@
+learning arthmatic operators
+and learning comperison operators
+a + b 
+a - b 
+a * b 
+a / b
