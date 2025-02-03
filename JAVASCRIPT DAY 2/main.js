@@ -13,4 +13,3 @@ var number2 = 44;
 
 console.log(number1 + number2);
 
-
